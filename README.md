@@ -1,5 +1,5 @@
-# IOTGreenHeating
-IOT system that based on the current green energy production and temperature controls the heating system accordingly. The documentation of this project can be found [here](https://docs.google.com/document/d/17gStytAsK--wiyyjuZHbbfm60SY5j2aJcIG8j6UO04s/edit?usp=sharing).
+# IoTGreenHeating
+IoT system that based on the current green energy production and temperature controls the heating system accordingly. The documentation of this project can be found [here](https://docs.google.com/document/d/17gStytAsK--wiyyjuZHbbfm60SY5j2aJcIG8j6UO04s/edit?usp=sharing). Made on Internet of Things course of Aarhus University in fall 2020 together with David F. Marquez https://github.com/DavidMarquezF and Ondrej Viskup https://github.com/onJv.
 
 
 # Features
